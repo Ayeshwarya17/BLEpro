@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Vehicle-Control-System-Simulation-in-C/Project_1/Debug"
+		},
+		{
+			"path": "../../../../../../Vehicle-Control-System-Simulation-in-C/Project_1/src"
+		},
+		{
+			"name": "ESP32BLE",
+			"path": "../../ESP32BLE"
+		},
+		{
+			"name": "BLEpro",
+			"path": ".."
+		}
+	]
+}
